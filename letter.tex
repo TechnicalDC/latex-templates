@@ -1,0 +1,29 @@
+\documentclass{letter}
+
+% import important packages
+\usepackage{MyCustomStyle}
+
+\usepackage{lipsum}
+
+\signature{Your name}
+\address{Street \\ City \\ Country}
+
+\begin{document}
+\begin{letter}{Company name \\ Street\\ City\\ Country}
+\opening{Dear Sir or Madam:}
+\lipsum[1-4]
+
+\begin{flushright}
+   \closing{Yours Faithfully,}
+\end{flushright}
+
+% for image signature
+%\closing{Yours faithfully,\\
+%\fromsig{\includegraphics[scale=1]{signature.jpg}} \\
+%\fromname{Your name}
+%}
+
+\ps{P.S. Here goes your ps.}
+\encl{Enclosures.}
+\end{letter}
+\end{document}
