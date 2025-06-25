@@ -7,3 +7,4 @@ This repo contains the templates used for latex documents.
 - graphicx
 - hyperref
 - CormorantGaramond
+- fancyhdr
