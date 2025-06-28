@@ -2,23 +2,24 @@
 
 % import important packages
 \usepackage{MyCustomStyle}
-
-\usepackage{fancyhdr}
 \usepackage{lipsum}
+
+\pagestyle{fancy}
 
 \author{Dilip Chauhan}
 \title{Article}
 
 \begin{document}
 
-% \fancyhf{}
-% \fancyhead[R]{Hello}
-% \fancyfoot[L]{\thepage}
+\fancyhf{}
+\fancyhead[R]{Hello}
+\fancyfoot[R]{World}
 
 \maketitle
 
 \tableofcontents
 
 \section{First section}
+\lipsum[1-4]
 \lipsum[1-4]
 \end{document}
