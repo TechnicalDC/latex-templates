@@ -9,7 +9,6 @@ header-includes:
   - \usepackage{pmboxdraw}
   - \usepackage{fontspec}
 geometry:
-- top=30mm
-- left=20mm
+- margin:1in
 ---
 
