@@ -6,5 +6,6 @@ This repo contains the templates used for latex documents.
 - geometry
 - graphicx
 - hyperref
-- CormorantGaramond
 - fancyhdr
+- titlesec
+- fontspecs
