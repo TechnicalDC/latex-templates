@@ -1,3 +1,5 @@
+\documentclass[12pt]{article}
+
 \usepackage[margin=1in, a4paper]{geometry}
 \usepackage{graphicx}
 \usepackage{fontspec}
@@ -13,3 +15,16 @@
 
 \setmainfont{Cormorant Infant}
 \setmonofont{FantasqueSansM Nerd Font}
+
+\title{$title$}
+\author{$author$}
+\date{$date$}
+
+\begin{document}
+
+\maketitle
+
+$body$
+
+\end{document}
+
