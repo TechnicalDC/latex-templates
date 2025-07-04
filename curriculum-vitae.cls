@@ -7,7 +7,7 @@
 
 \usepackage{xcolor}
 \usepackage[a4paper, margin=.5in]{geometry}
-\usepackage{CormorantGaramond}
+\usepackage{fontspec}
 \usepackage{hyperref}
 \hypersetup{
     colorlinks=true,
@@ -20,6 +20,7 @@
 
 \pagestyle{empty}
 \setlength{\parindent}{0em}
+\setmainfont{Cormorant Infant}
 
 \newcommand{\CvHeader}[4]{
 {\Huge \bfseries \scshape #1}
