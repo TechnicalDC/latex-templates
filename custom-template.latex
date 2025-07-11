@@ -7,6 +7,14 @@
 \usepackage{hyperref}
 \usepackage{titlesec}
 \usepackage{fancyhdr}
+\usepackage{framed}
+\usepackage{color}
+
+$if(highlighting-macros)$
+$highlighting-macros$
+$endif$
+
+\definecolor{shadecolor}{RGB}{248,0,0}
 
 \hypersetup{
     colorlinks=true,
