@@ -1,6 +1,10 @@
 ---
 title: Markdown to PDF Template
 author: Dilip Chauhan
+# fontsize: 12pt
+mainfont: Roboto Serif
+# classoption:
+# - titlepage
 ---
 
 # Introduction

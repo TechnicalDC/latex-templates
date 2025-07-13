@@ -1,5 +1,10 @@
 \documentclass[
-   12pt
+	$if(fontsize)$
+	  $fontsize$,
+	$endif$
+	$for(classoption)$
+	  $classoption$$sep$,
+	$endfor$
 ]{article}
 
 % \usepackage{MyCustomStyle}
