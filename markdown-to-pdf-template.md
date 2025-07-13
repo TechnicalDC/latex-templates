@@ -5,6 +5,18 @@ author: Dilip Chauhan
 
 # Introduction
 
+## Command
+
+```bash
+pandoc markdown-to-pdf-template.md \
+    -o ./markdown-to-pdf-template.pdf \
+    --pdf-engine xelatex \
+    --template ./custom-template.latex \
+    --highlight-style tango
+```
+
+## Sample code block
+
 ```lua
 -- LAZY BOOTSTRAP
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
