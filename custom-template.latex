@@ -1,4 +1,6 @@
-\documentclass[12pt]{article}
+\documentclass[
+   12pt
+]{article}
 
 % \usepackage{MyCustomStyle}
 \usepackage[margin=1in, a4paper]{geometry}
@@ -14,15 +16,18 @@ $if(highlighting-macros)$
 $highlighting-macros$
 $endif$
 
-\definecolor{shadecolor}{RGB}{248,0,0}
-
 \hypersetup{
     colorlinks=true,
     linkcolor=black,
     filecolor=black,
 }
 
+$if(mainfont)$
+  \setmainfont[$for(mainfontoptions)$$mainfontoptions$$sep$,$endfor$]{$mainfont$}
+$else$
 \setmainfont{Cormorant Infant}
+$endif$
+
 \setmonofont{FantasqueSansM Nerd Font}
 
 \title{$title$}
