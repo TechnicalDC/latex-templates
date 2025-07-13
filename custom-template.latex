@@ -23,12 +23,16 @@ $endif$
 }
 
 $if(mainfont)$
-  \setmainfont[$for(mainfontoptions)$$mainfontoptions$$sep$,$endfor$]{$mainfont$}
+\setmainfont[$for(mainfontoptions)$$mainfontoptions$$sep$,$endfor$]{$mainfont$}
 $else$
 \setmainfont{Cormorant Infant}
 $endif$
 
+$if(monofont)$
+\setmonofont[$for(monofontoptions)$$monofontoptions$$sep$,$endfor$]{$monofont$}
+$else$
 \setmonofont{FantasqueSansM Nerd Font}
+$endif$
 
 \title{$title$}
 \author{$author$}
