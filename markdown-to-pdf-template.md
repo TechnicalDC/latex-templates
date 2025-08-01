@@ -3,6 +3,7 @@ title: Markdown to PDF Template
 author: Dilip Chauhan
 # fontsize: 12pt
 mainfont: Roboto Serif
+header: Markdown to PDF Template
 # classoption:
 # - titlepage
 ---
@@ -15,6 +16,17 @@ convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus
 fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada
 lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti
 sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+
+## Metadata
+
+```markdown
+- title: Sets the file of the document.
+- author: Sets the author of the document.
+- fontsize: Sets the font size.
+- mainfont: Sets the font.
+- header: Sets the header using fancyhdr.
+- classoption: Sets one or more classoptions.
+```
 
 ## Command
 

@@ -16,6 +16,8 @@
 \usepackage{framed}
 \usepackage{color}
 
+\pagestyle{fancy}
+
 $if(highlighting-macros)$
 $highlighting-macros$
 $endif$
@@ -43,6 +45,16 @@ $endif$
 \date{$date$}
 
 \begin{document}
+
+\fancyhf{}
+$if(header)$
+\fancyhead[R]{$header$}
+$endif$
+
+$if(footer)$
+\fancyfoot[R]{$footer$}
+$endif$
+
 
 \maketitle
 
