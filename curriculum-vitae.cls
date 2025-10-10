@@ -14,7 +14,7 @@
     linkcolor=black,
     filecolor=black,
     urlcolor=black,
-    pdftitle={Overleaf Example},
+    pdftitle={Resume},
     pdfpagemode=FullScreen,
     }
 
