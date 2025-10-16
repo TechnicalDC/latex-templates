@@ -4,9 +4,9 @@
   name: "Dilip Chauhan",
   address: "Virar, Palghar",
   contacts: (
-    [#link("mailto:dilip.chauhan.25@zohomail.in")[linkedin.com/in/chauhandilip]],
-    [#link("mailto:dilip.chauhan.25@zohomail.in")],
-    // [#link("https://technicaldc.github.io")[technicaldc.github.io]],
+    [#link("https://www.linkedin.com/in/chauhandilip")[linkedin]],
+    [#link("mailto:dilip.chauhan.25@zohomail.in")[mail]],
+    [#link("https://technicaldc.github.io")[website]],
   ),
   paper-size: "us-letter",
   footer-text: [Dilip Chauhan ---]
