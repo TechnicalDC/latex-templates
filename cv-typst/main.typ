@@ -32,7 +32,7 @@ consistently surpass client expectations.
   - Concurrently pursued advanced WebUI development training to stay ahead in
     technological advancements.
 
-    *Key contributions in projects:*
+  *Key contributions in projects:*
 
   - Designed and developed customized business components with OOABL and
     Typescript for enhanced functionality.
@@ -58,8 +58,6 @@ consistently surpass client expectations.
   time: [Aug, 2021 - May, 2024],
   location: "Mumbai, India"
 )[
-  *Key contributions in projects:*
-
   - Developed maintenance programs using Progress 4GL, precisely incorporating
     essential lookups to streamline operations and bolster efficiency.
   - Orchestrated the implementation of customized QRF designs and proxy
