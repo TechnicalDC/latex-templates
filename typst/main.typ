@@ -13,10 +13,12 @@
 )
 
 === About Me
-Experienced and passionate software engineer, dedicated to harnessing my expertise in software development to
-create cutting-edge and resilient solutions. Proficient in QAD ERP (NetUI/WebUI/MfgPro), Progress 4GL,
-Bash, Typescript, Git, and SDLC methodologies. Beyond technical proficiency, I bring string problem-solving
-abilities and interpersonal skills to the table, enabling me to thrive under pressure, meet stringent deadlines, and
+Experienced and passionate software engineer, dedicated to harnessing my
+expertise in software development to create cutting-edge and resilient
+solutions. Proficient in QAD ERP (NetUI/WebUI/MfgPro), Progress 4GL, Bash,
+Typescript, Git, and SDLC methodologies. Beyond technical proficiency, I bring
+string problem-solving abilities and interpersonal skills to the table,
+enabling me to thrive under pressure, meet stringent deadlines, and
 consistently surpass client expectations.
 
 === Experience
