@@ -33,6 +33,8 @@ consistently surpass client expectations.
     atmosphere focused on sharing knowledge.
   - Concurrently pursued advanced WebUI development training to stay ahead in
     technological advancements.
+  - Led a team of developers, providing guidance, task allocation, and
+    technical mentorship to ensure timely project delivery.
 
   *Key contributions in projects:*
 
@@ -50,8 +52,6 @@ consistently surpass client expectations.
     performed the ant deployment in the environment.
   - Executed development and integration workflows via SVN and provided
     technical support by troubleshooting Linux server issues.
-  - Led a team of developers, providing guidance, task allocation, and
-    technical mentorship to ensure timely project delivery.
 ]
 
 #experience(
