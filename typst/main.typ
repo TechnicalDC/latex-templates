@@ -111,9 +111,16 @@ consistently surpass client expectations.
 - *Programming Languages:* Progress 4GL, OOABL, Python, Golang, Lua, Typescript, Bash, MySQL, Java.
 - *Framework:* QAD Reporting Framework (QRF), Django, Flask, jQuery, Hugo, Springboot.
 - *Environments:* QAD SE, QAD EE, QAD MfgPro, QAD AUX.
-- *Dev Tools:* Linux, Unix, Git, Jira, Service Now, Vim/Vi, Tmux, Soap UI, Postman, Subversion.
+- *Dev Tools:* Linux, Git, Jira, Service Now, Vim/Vi, Tmux, Soap UI, Postman, Subversion.
 
 === Certifications
+
+#certification(
+  place: "QAD Inc",
+  title: "Platform Extension 2025",
+  time: [Pursuing],
+  location: none
+)[]
 
 #certification(
   place: "QAD Inc",

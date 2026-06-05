@@ -11,10 +11,18 @@
       title
     ),
   )
+  set heading(numbering: "1.")
   set par(justify: true)
   show raw: set text(font: "Maple Mono NL NF", weight: "medium", size: 9pt)
+  show raw.where(block: true): it => block(
+    width: 100%,
+    fill: rgb("#faf4ed"),
+    inset: 8pt,
+    radius: 5pt,
+    text(fill: rgb("#a2aabc"), it)
+  )
 
-  set align(center)
+  set align(center + horizon)
   text(weight: "bold", size: 17pt, title)
 
   let count = authors.len()
@@ -29,6 +37,10 @@
     ]),
   )
 
-  set align(left)
+  set align(left + top)
+  pagebreak()
+  outline()
+  pagebreak()
+
   doc
 }

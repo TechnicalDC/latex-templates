@@ -2,13 +2,23 @@
 
 #show: article.with(
   title: "Hello World",
-  // authors: "Dilip Chauhan"
+  // authors: (
+  //   (
+  //     name: "Dilip Chauhan",
+  //     affiliation: "",
+  //     email: "",
+  //   )
+  // )
 )
 
-#set heading(numbering: "1.")
-#outline()
-#pagebreak()
 
 = Sample Text
 
 #lorem(30)
+
+```typ
+= Chapter 1
+#let hi = "Hello World"
+```
+
+`code`
