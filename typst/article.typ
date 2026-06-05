@@ -12,7 +12,7 @@
     ),
   )
   set par(justify: true)
-  show raw: set text(font: "VictorMono NF", weight: "medium", size: 9pt)
+  show raw: set text(font: "Maple Mono NL NF", weight: "medium", size: 9pt)
 
   set align(center)
   text(weight: "bold", size: 17pt, title)
