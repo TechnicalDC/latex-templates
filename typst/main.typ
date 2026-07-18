@@ -24,7 +24,7 @@ consistently surpass client expectations.
 === Experience
 #experience(
   place: "Durvah IT Consulting Private Limited",
-  title: "Sr. Software Engineer",
+  title: "Sr. Software Engineer II",
   time: [May 2024 - Present],
   location: "Mumbai, India"
 )[
@@ -117,13 +117,6 @@ consistently surpass client expectations.
 
 #certification(
   place: "QAD Inc",
-  title: "Platform Extension 2025",
-  time: [Pursuing],
-  location: none
-)[]
-
-#certification(
-  place: "QAD Inc",
   title: "QRA Developer Practitioner",
   time: [April, 2025],
   location: none
@@ -181,4 +174,3 @@ consistently surpass client expectations.
   time: [Mar, 2014],
   location: "Virar, Palghar"
 )[]
-
