@@ -28,30 +28,27 @@ consistently surpass client expectations.
   time: [May 2024 - Present],
   location: "Mumbai, India"
 )[
-  - Delivered thorough QAD AUX training to team members and consistently
-    supported team members with technical issues, promoting a collaborative
-    atmosphere focused on sharing knowledge.
-  - Concurrently pursued advanced WebUI development training to stay ahead in
-    technological advancements.
-  - Led a team of developers, providing guidance, task allocation, and
-    technical mentorship to ensure timely project delivery.
-
-  *Key contributions in projects:*
-
-  - Designed and developed customized business components with OOABL and
-    Typescript for enhanced functionality.
-  - Successfully implemented the custom KPI and Action Center along with
-    developing forms and views.
-  - Proficiently deployed various programs leveraging advanced tools like YAB
-    and CVC, ensuring smooth implementation and seamless integration with
-    existing systems.
-  - Designed and deployed multiple QRF programs leveraging Platform API to
-    automate various transactions, resulting in a 60\% reduction in manual
-    effort and a substantial improvement in overall operational efficiency.
-  - Worked on the creation of OOABL Classes and Interfaces for QAD AUX App and
-    performed the ant deployment in the environment.
-  - Executed development and integration workflows via SVN and provided
-    technical support by troubleshooting Linux server issues.
+    - Led a 5‑person development team, delivering projects on schedule through
+      technical guidance, task allocation, and mentorship.
+    - Delivered comprehensive QAD AUX training to team members and provided
+      ongoing technical support to resolve development and implementation
+      issues.
+    - Developed customized QAD business components using OOABL and TypeScript to
+      extend system functionality and meet business requirements.
+    - Implemented custom KPI and Action Center functionality, including the
+      development of forms and views.
+    - Developed and deployed programs using YAB and CVC, ensuring smooth
+      implementation and integration with existing QAD environments.
+    - Designed and deployed multiple QRF programs using Platform API to automate
+      business transactions, reducing manual effort by approximately 60% and
+      improving operational efficiency.
+    - Developed OOABL classes and interfaces for QAD AUX applications and
+      performed ANT-based deployments across environments.
+    - Worked with SVN for development and integration workflows, ensuring
+      effective source code management and collaboration.
+    - Provided technical support and troubleshooting for Linux server
+      environments, resolving issues to maintain application and system
+      availability.
 ]
 
 #experience(
@@ -60,40 +57,33 @@ consistently surpass client expectations.
   time: [Aug, 2021 - May, 2024],
   location: "Mumbai, India"
 )[
-  - Developed maintenance programs using Progress 4GL, precisely incorporating
-    essential lookups to streamline operations and bolster efficiency.
-  - Orchestrated the implementation of customized QRF designs and proxy
-    programs, empowering businesses to conduct thorough data analysis and make
-    informed decisions with precision.
-  - Innovatively developed NetUI browses, seamlessly integrating browse links
-    and URLs while optimizing browse performance to elevate user experience to
-    new heights.
-  - Designed and deployed CIM and upload programs, significantly reducing
-    manual workload by an impressive 50-60\% and enhancing overall operational
-    efficiency.
-  - Spearheaded seamless migrations from 2012 to 2016, adeptly resolving
-    runtime issues and seamlessly replicating existing customizations in the
-    latest version for uninterrupted workflow.
-  - Proficiently deployed various programs utilizing advanced tools like CVC
-    and YAB, ensuring smooth implementation and seamless integration with
-    existing systems.
-  - Interacted proficiently with Linux environments, harnessing CLI tools to
-    streamline processes and optimize system performance.
-  - Designed business components and extended them with OOABL extensions and
-    platform API, concurrently pursuing WebUI development training to stay at
-    the forefront of technological advancements.
-  - Implemented lookups, formulas in the business component, and alerts, while
-    effectively managing data export/import operations to ensure data integrity
-    and seamless flow of information.
-  - Provided comprehensive QAD technical training to junior team members and
-    actively assisted teammates with technical support, fostering a
-    collaborative and knowledge-sharing environment.
-  - Offered invaluable assistance in resolving E-Invoice process issues,
-    demonstrating proficiency and dedication to ensuring operational
-    excellence.
-  - Managed the migration of the E-Invoice module from Mfgpro to QAD 2022
-    environment, incorporating customized invoice programs and report designs
-    to seamlessly transition and optimize functionality.
+    - Developed and customized QAD maintenance programs using Progress 4GL,
+      including business lookups and process enhancements to improve operational
+      efficiency.
+    - Designed and implemented customized QRF reports and proxy programs to
+      support business reporting, data analysis, and decision-making.
+    - Developed QAD NetUI browses, including browse links and URLs, while
+      optimizing browse performance and usability.
+    - Designed and deployed CIM and data upload programs, reducing manual effort
+      by approximately 50–60% and improving operational efficiency.
+    - Led QAD migrations from 2012 to 2016, troubleshooting runtime issues and
+      replicating existing customizations to ensure business continuity.
+    - Developed and deployed QAD programs using CVC and YAB, ensuring successful
+      implementation and integration with existing systems.
+    - Worked extensively in Linux environments, using CLI tools to troubleshoot
+      issues and streamline development and deployment activities.
+    - Designed and extended QAD business components using OOABL extensions and
+      Platform API to deliver customized business functionality.
+    - Implemented lookups, formulas, alerts, and data import/export
+      functionality within business components while maintaining data integrity.
+    - Provided technical training and support to junior team members,
+      contributing to knowledge sharing and team development.
+    - Supported troubleshooting and resolution of E-Invoice process issues,
+      ensuring smooth business operations.
+    - Managed the migration of the E-Invoice module from MfgPro to QAD 2022,
+      including customized invoice programs and report designs.
+    - Collaborated with team members and business stakeholders to analyze
+      requirements, troubleshoot issues, and deliver QAD technical solutions.
 ]
 
 #experience(
